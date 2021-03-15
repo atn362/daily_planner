@@ -14,4 +14,4 @@ https://drive.google.com/file/d/1opCWqNOrVOsAYq5icMavlldECjsC9mAF/preview
 
 ![image](https://user-images.githubusercontent.com/77468756/111225536-e8698d00-85ad-11eb-9601-104f58f174de.png)
 
-https://user-images.githubusercontent.com/77468756/111227140-1f40a280-85b0-11eb-8244-b627a6af6ba6.mp4
+![video](https://user-images.githubusercontent.com/77468756/111227140-1f40a280-85b0-11eb-8244-b627a6af6ba6.mp4)
