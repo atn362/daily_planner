@@ -3,5 +3,9 @@ The planner used a decent amount of JavaScript, utilizing both JQuery and moment
 This assignment has made me a bit more comfortable and with the use of the setItem method for storing user provided information in the local storage.  Looking forward to being able to pass such information on through the API in future class projects.  
 This project was enjoyable, cause as grueling and frustrating it is to test code, it's is such a sense accomplishment when the application actually works as I planned.  I do in fact, have a tutor.  And he has certainly been a godsent when I'm feeling a bit overwhelmed and stumped on particular steps.  I really seem to overthink simple mistakes.
 
+Link to site:
+
+https://atn362.github.io/daily_planner/
+
 
 ![image](https://user-images.githubusercontent.com/77468756/111225536-e8698d00-85ad-11eb-9601-104f58f174de.png)
