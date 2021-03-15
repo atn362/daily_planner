@@ -7,5 +7,9 @@ Link to site:
 
 https://atn362.github.io/daily_planner/
 
+Link to preview clip of site:
+
+https://drive.google.com/file/d/1opCWqNOrVOsAYq5icMavlldECjsC9mAF/preview
+
 
 ![image](https://user-images.githubusercontent.com/77468756/111225536-e8698d00-85ad-11eb-9601-104f58f174de.png)
