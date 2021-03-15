@@ -28,20 +28,20 @@ var time = moment();
 function setPlanner() {
 //sets the current date and time in the header
     $("#currentDay").text(moment().format("dddd, MMMM Do YYYY"));
-
+//function that assigns the current hour to its corresponding ID in the container
     $(".time-block").each(function () {
         var hour = $(this).attr("id");
         var schedule = localStorage.getItem(hour);
 
-        //checking to make sure every hour is displayed
+        //checking to make sure every hour is displayed, along with the value once typed into the text box
         console.log(hour)
-
+//stores the value of the the schedule to it's parent var hour
         if (schedule !== null) {
             $(this).children(".schedule").val(schedule);
         }
     });
 }
-//allows to user to save typed for the chosen hour
+//allows the user to save typed for the chosen hour
 setPlanner();
 var saveBtn = $(".saveBtn");
 //once clicked its saves to local storage in the dev tools
@@ -52,7 +52,7 @@ saveBtn.on("click", function () {
 //set item is what stores the key and value of the time and planner
     localStorage.setItem(time, planner);
 });
-//this function 
+//functions which assigns the current hour to its corresponding hour in the planner
 function presentTime() {
     hour = time.hours();
     $(".time-block").each(function () {
