@@ -2,7 +2,9 @@
 
 Work Day Scheduler Daily Planner
 
+# Deployed URL
 
+https://atn362.github.io/daily_planner/
 
 # Description
 
